@@ -1,2 +1,3 @@
 .vscode
 entorno_flask
+.env
