@@ -5,12 +5,12 @@
     "version": "1.0",
     "title": "Reporteria Flask",
     "contact": {
-      "email": "jach88@hotmail.com",
-      "name": "Christian Julca"
+      "email": "rojofernando296@gmail.com",
+      "name": "Fernando Rojo"
     },
     "termsOfService": "http://google.com"
   },
-  "host": "127.0.0.1:5000",
+  "host": "reposteria-fernando.herokuapp.com",
   "basePath": "/",
   "schemes": [
     "http"
