@@ -13,7 +13,7 @@
   "host": "reposteria-fernando.herokuapp.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "consumes": [
     "application/json"
