@@ -152,4 +152,6 @@ CORS_ALLOWED_METHODS = ['GET','POST']
 CORS_ALLOW_HEADERS = ['Content-Type', 'origin','Authorization']
 
 
+# Es donde se almacenaran los archivos estaticos
+STATIC_ROOT = BASE_DIR / 'staticfiles'
 
